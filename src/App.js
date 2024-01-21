@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("MLD | Molad e Konsult - Bespoke Web and Mobile Applications");
+  useDocTitle("DA | Dinsmoor Amplification - Custom High Gain Tube amps");
 
   return (
     <>
