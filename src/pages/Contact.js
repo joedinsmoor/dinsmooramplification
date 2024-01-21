@@ -181,7 +181,7 @@ const Contact = () => {
                                     </div>
                                     <div className="flex flex-col">
                                         <h2 className="text-2xl">Office Address</h2>
-                                        <p className="text-gray-400">Ilo Awela, Ota, Ogun State</p>
+                                        <p className="text-gray-400">Boston, Massachusetts</p>
                                     </div>
                                 </div>
                     
@@ -189,17 +189,12 @@ const Contact = () => {
                         <div className="flex flex-col">
                         <i className="fas fa-phone-alt pt-2 pr-2" />
                         </div>
-
-                        <div className="flex flex-col">
-                        <h2 className="text-2xl">Call Us</h2>
-                        <p className="text-gray-400">Tel: 08055384406</p>
                         
                             <div className='mt-5'>
                                 <h2 className="text-2xl">Send an E-mail</h2>
                                 <p className="text-gray-400">info@dinsmooramplification.com</p>
                             </div>
                        
-                        </div>
                     </div>
                     
                     <div className="flex my-4 w-2/3 lg:w-1/2">

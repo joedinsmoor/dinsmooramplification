@@ -1,3 +1,11 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+Disallow: /__esa
+Disallow: /__mesa/
+Disallow: /__xesa/
+Disallow: /__csup/
+Disallow: /__xsla/
+Disallow: /_xcusp/
+Disallow: /lp
+Disallow: /feedback
+Disallow: /langtest
